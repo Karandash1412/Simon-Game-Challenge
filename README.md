@@ -21,7 +21,7 @@ This challenge involves completing the missing JavaScript code to implement the 
 Clone this repository:
 
 Open the index.html file in your browser or a code editor of your choice.
-Also, you can run this game through this   [Link](https://link-url-here.org](https://karandash1412.github.io/Simon-Game-Challenge/))
+Also, you can run this game through this [link](https://karandash1412.github.io/Simon-Game-Challenge/)
 
 ## 💡 Feel free to:
 
